@@ -9,6 +9,8 @@
    * Para exbir a atualização em tempo real foi utilizada a função setInterval( );
    * O relógio é exibido na tela do usuário através da manipulação do DOM;
    * Utilizada media query para tornar o projeto responsivo a diversos tamanhos de tela;
+
+#### Clique [aqui](https://rackelberbet.github.io/relogio/) para ver o projeto em execução! 😄
     
 
 
